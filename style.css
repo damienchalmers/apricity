@@ -76,7 +76,13 @@ li {
 
 .padded-paragraph {
   padding-top: 10px;
-  padding-right: 45px;
+  padding-right: 85px;
+  padding-bottom: 20px;
+  padding-left: 45px;
+}
+.padded-paragraph2 {
+  padding-top: 10px;
+  padding-right: 85px;
   padding-bottom: 20px;
   padding-left: 25px;
 }
