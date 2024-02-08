@@ -15,7 +15,7 @@ h1 {
   color: #111111;
   text-align: left;
   font-weight: lighter;
-  font-size: 1em; /* Increase heading size */
+  font-size: 2em; /* Increase heading size */
   margin-bottom: 20px; /* Add space after heading */
 }
 
