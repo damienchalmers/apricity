@@ -96,13 +96,13 @@ li {
   }
 }
 .text-element {
-  font-size: 16px; /* Default font size */
+  font-size: 0.2em; /* Default font size */
 }
 
 /* Larger font size for screens narrower than 768px */
 @media (max-width: 768px) {
   .text-element {
-    font-size: 20px; /* Larger font size for mobile */
+    font-size: 1em; /* Larger font size for mobile */
   }
 }
 
