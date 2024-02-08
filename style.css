@@ -89,7 +89,7 @@ li {
 /* Smaller padding for screens narrower than 768px (common breakpoint for mobile devices) */
 @media (max-width: 768px) {
   .padded-paragraph {
-    padding-top: 10px;
+  padding-top: 10px;
   padding-right: 15px;
   padding-bottom: 20px;
   padding-left: 15px;
