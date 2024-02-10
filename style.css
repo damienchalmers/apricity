@@ -29,7 +29,7 @@ a {
  
   color: #111111;
   font-weight: lighter;
-  font-size:  1em; /* Increase heading size */
+  font-size:  0.8em; /* Increase heading size */
   line-height: 2; /* Increase line spacing */
 }
 
@@ -95,6 +95,7 @@ li {
   padding-left: 10px;
   }
 }
+
 .text-element {
   font-size: 0.8em; /* Default font size */
 }
