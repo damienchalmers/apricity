@@ -40,21 +40,21 @@ h2 {
   color: #111111;
   text-align: center;
   font-weight: lighter;
-  font-size: 0.5em; /* Increase section heading size */
+  font-size: 0.8em; /* Increase section heading size */
   margin-bottom: 10px; /* Add space after section heading */
 }
 
 ul {
   list-style: none; /* Remove default bullet points */
   font-weight: lighter;
-  font-size: 0.5em; /* Increase section heading size */
+  font-size: 0.8em; /* Increase section heading size */
   padding: 0; /* Remove default padding */
   margin: 0; /* Remove default margin */
 }
 
 li {
   font-weight: lighter;
-  font-size: 0.5em; /* Increase section heading size */
+  font-size: 0.8em; /* Increase section heading size */
   margin-bottom: 10px; /* Add space between list items */
 }
 
@@ -95,13 +95,13 @@ li {
   }
 }
 .text-element {
-  font-size: 0.5em; /* Default font size */
+  font-size: 0.8em; /* Default font size */
 }
 
 /* Larger font size for screens narrower than 768px */
 @media (max-width: 768px) {
   .text-element {
-    font-size: 1em; /* Larger font size for mobile */
+    font-size: 1.1em; /* Larger font size for mobile */
   }
 }
 
