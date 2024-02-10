@@ -103,7 +103,6 @@ li {
 @media (max-width: 768px) {
   .text-element {
     font-size: 1.1em; /* Larger font size for mobile */
-     -webkit-text-size-adjust: 100%; /* Prevent font scaling in Safari */
   }
 }
 
