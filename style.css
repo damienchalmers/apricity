@@ -78,23 +78,23 @@ li {
 
 .padded-paragraph {
   padding-top: 10px;
-  padding-right: 85vw;
+  padding-right: 85px;
   padding-bottom: 20px;
-  padding-left: 45vw;
+  padding-left: 45px;
 }
 .padded-paragraph2 {
   padding-top: 10px;
-  padding-right: 85vw;
+  padding-right: 85px;
   padding-bottom: 20px;
-  padding-left: 85vw;
+  padding-left: 85px;
 }
 /* Smaller padding for screens narrower than 768px (common breakpoint for mobile devices) */
 @media (max-width: 768px) {
   .padded-paragraph {
   padding-top: 10px;
-  padding-right: 20vw;
+  padding-right: 20px;
   padding-bottom: 20px;
-  padding-left: 10vw;
+  padding-left: 10px;
   }
 }
 
