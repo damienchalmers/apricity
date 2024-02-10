@@ -61,14 +61,6 @@ li {
   margin-bottom: 10px; /* Add space between list items */
 }
 
-.image-section {
-  text-align: center; /* Center the image and text */
-}
-
-.image-section img {
-  max-width: 500px; /* Set a maximum width for the image */
-  margin: 10px auto; /* Add margin around the image */
-}
 
 
 @font-face {
