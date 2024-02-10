@@ -89,11 +89,7 @@ li {
   padding-left: 10px;
   }
 }
-@media (max-width: 768px) {
-  body {
-    padding: 0px; /* Or an appropriate value for mobile devices */
-  }
-}
+
 
 
 /* Larger font size for screens narrower than 768px */
