@@ -113,10 +113,8 @@ li {
 }
 
 .container {
-  display: flex;
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically, if needed */
-
+ text-align: center; /* This should center inline or inline-block elements within it */
+  width: 60%; /* Ensures the container can center its children properly */
 }
 
 
