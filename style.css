@@ -10,8 +10,6 @@ body {
  
 }
 
-
-
 h1 {
   color: #111111;
   text-align: left;
@@ -61,8 +59,6 @@ li {
   margin-bottom: 10px; /* Add space between list items */
 }
 
-
-
 @font-face {
   font-family: 'Sligoil-Micro';
   src: url('Sligoil-Micro.woff') format('woff');
@@ -74,12 +70,14 @@ li {
   padding-bottom: 20px;
   padding-left: 45px;
 }
+
 .padded-paragraph2 {
   padding-top: 10px;
   padding-right: 85px;
   padding-bottom: 20px;
   padding-left: 45px;
 }
+
 /* Smaller padding for screens narrower than 768px (common breakpoint for mobile devices) */
 @media (max-width: 768px) {
   .padded-paragraph {
@@ -89,16 +87,15 @@ li {
   padding-left: 10px;
   }
 }
+
 @media (max-width: 768px) {
   .padded-paragraph2 {
   padding-top: 10px;
   padding-right: 20px;
   padding-bottom: 20px;
-  padding-left: 10px;
+  padding-left: 20px;
   }
 }
-
-
 
 /* Larger font size for screens narrower than 768px */
 @media (max-width: 768px) {
