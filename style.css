@@ -116,7 +116,7 @@ li {
   display: flex;
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically, if needed */
-  height: 100vh; /* Or any specific height */
+
 }
 
 
