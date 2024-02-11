@@ -125,7 +125,7 @@ li {
   .container {
   text-align: center; /* This should center inline or inline-block elements within it */
   padding-top: 10px;
-  padding-right: 0px;
+  padding-right: 10px;
   padding-bottom: 20px;
   padding-left: 10px;
   }
