@@ -108,7 +108,7 @@ li {
   border: 1px solid black; /* Thin black border with 1px thickness */
   padding: 10px; /* Padding around the text */
   border-radius: 5px; /* Rounded corners with a radius of 5px */
-  display: inline-block; /* Adjust display to fit the content width */
+  display: auto; /* Adjust display to fit the content width */
 }
 
 
