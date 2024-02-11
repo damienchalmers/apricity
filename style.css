@@ -114,7 +114,10 @@ li {
 
 .container {
  text-align: center; /* This should center inline or inline-block elements within it */
-  width: 60%; /* Ensures the container can center its children properly */
+  padding-top: 20px;
+  padding-right: 85px;
+  padding-bottom: 20px;
+  padding-left: 45px;
 }
 
 
