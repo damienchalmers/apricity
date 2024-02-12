@@ -133,9 +133,9 @@ li {
 
 .padded-paragraph3 {
   padding-top: 10px;
-  padding-right: 80px;
+  padding-right: 60px;
   padding-bottom: 20px;
-  padding-left: 100px;
+  padding-left: 110px;
 }
 
 @media (max-width: 768px) {
