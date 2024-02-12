@@ -131,4 +131,20 @@ li {
   }
 }
 
+.padded-paragraph3 {
+  padding-top: 10px;
+  padding-right: 85px;
+  padding-bottom: 20px;
+  padding-left: 45px;
+}
+
+@media (max-width: 768px) {
+  .padded-paragraph3 {
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  }
+}
+
 
