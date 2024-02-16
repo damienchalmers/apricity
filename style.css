@@ -154,9 +154,12 @@ li {
   padding-left: 150px;
 }
 
-.footer{
-    position: fixed;
-    bottom: 1;
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
-
+footer{
+    margin-top: auto;
+}
 
