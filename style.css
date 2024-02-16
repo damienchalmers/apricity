@@ -155,7 +155,9 @@ li {
 }
 
 .footer{     
+  background: peachpuff;
      position: sticky; 
      bottom: 0;
+  text-align: center;
 }
 
