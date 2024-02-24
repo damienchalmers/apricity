@@ -105,6 +105,7 @@ li {
 }
 
 .text-border {
+  display: inline-block;
   border: 1px solid black; /* Thin black border with 1px thickness */
   padding: 10px; /* Padding around the text */
   border-radius: 5px; /* Rounded corners with a radius of 5px */
@@ -113,19 +114,19 @@ li {
 }
 
 .container {
- display: flex;
+ 
   justify-content: center;
   align-items: center;
- text-align: left; /* This should center inline or inline-block elements within it */
+
 }
 
 /* Smaller padding for screens narrower than 768px (common breakpoint for mobile devices) */
 @media (max-width: 768px) {
   .container {
-display: flex;
+
   justify-content: center;
   align-items: center;
- text-align: left; /* This should center inline or inline-block elements within it */
+
   }
 }
 
