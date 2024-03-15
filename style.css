@@ -7,7 +7,7 @@ body {
   height: 100%;
   overflow: auto;
   background: peachpuff;
-  min-height: 200vh;
+
  
 }
 
@@ -165,11 +165,4 @@ li {
   text-align: justify;
 }
 
-#scroll-progress {
-  position: fixed;
-  top: 0;
-  width: 0%;
-  height: 4px;
-  background: #7983ff;
-  z-index: 10000;
-}
+
