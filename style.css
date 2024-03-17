@@ -169,7 +169,8 @@ li {
   background-image: url("noise.png");  
   background-repeat: no-repeat;  
   background-position: center;  
-  background-size: cover;   
+  background-size: cover;  
+  overflow: auto;
 }
 
 
