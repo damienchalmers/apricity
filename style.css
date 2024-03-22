@@ -180,7 +180,7 @@ li {
   width: auto; /* Adjust based on content size */
   max-width: 90%; /* Prevents the box from getting too wide */
   background: rgba(255, 218, 185, 0.2); /* Semi-transparent white background */
-  backdrop-filter: blur(30px); /* Blur effect with 5px radius */
+  backdrop-filter: blur(50px); /* Blur effect with 5px radius */
 }
 
 
