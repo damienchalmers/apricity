@@ -175,12 +175,11 @@ li {
 
 .blur {
   display: inline-block;
-  
   padding: 10px; /* Padding around the text */
   border-radius: 5px; /* Rounded corners with a radius of 5px */
   width: auto; /* Adjust based on content size */
   max-width: 90%; /* Prevents the box from getting too wide */
-background: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  background: rgba(255, 255, 255, 0.2); /* Semi-transparent white background */
   backdrop-filter: blur(5px); /* Blur effect with 5px radius */
 }
 
