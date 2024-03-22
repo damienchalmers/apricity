@@ -170,7 +170,6 @@ li {
   background-repeat: no-repeat;  
   background-position: center;  
   background-size: cover;  
-  z-index: 0;
 
 }
 
@@ -182,7 +181,7 @@ li {
   max-width: 90%; /* Prevents the box from getting too wide */
   background: rgba(255, 218, 185, 0.2); /* Semi-transparent white background */
   backdrop-filter: blur(50px); /* Blur effect with 5px radius */
-  z-index: 1;
+ 
 }
 
 
