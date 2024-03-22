@@ -183,7 +183,7 @@ li {
   max-width: 90%; /* Prevents the box from getting too wide */
   background: rgba(255, 218, 185, 0.2); /* Semi-transparent white background */
   filter: blur(2px); /* Blur effect with 5px radius */
-  z-index: 1;
+  z-index: 0;
  
 }
 
