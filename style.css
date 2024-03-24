@@ -110,14 +110,14 @@ li {
 .text-element2 {
     color: peachpuff;
     font-size: 3.1em; 
-    align-items: center;/* Larger font size for mobile */
+    text-align: center;
   }
 
 @media (max-width: 768px) {
   .text-element2 {
     color: peachpuff;
     font-size: 3.1em; 
-    align-items: center;/* Larger font size for mobile */
+    text-align: center;
   }
 }
 
