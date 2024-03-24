@@ -107,6 +107,12 @@ li {
   }
 }
 
+@media (max-width: 768px) {
+  .text-element2 {
+    font-size: 3.1em; /* Larger font size for mobile */
+  }
+}
+
 .text-border {
   display: inline-block;
   border: 1px solid black; /* Thin black border with 1px thickness */
