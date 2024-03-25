@@ -197,8 +197,10 @@ li {
     -webkit-backdrop-filter: blur(1px);
     padding: 10px; /* Adjust padding as needed */
     margin: 10px;  /* Adjust margin as needed */
-    display: inline-block;; /* Enable flexbox layout */
-padding-right: 200px;
+   /* display: inline-block;; /* Enable flexbox layout */
+position: fixed;
+  left: 100px;
+  right: 300px;
    
 }
     
