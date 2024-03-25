@@ -198,7 +198,6 @@ li {
     padding: 10px; /* Adjust padding as needed */
     margin: 10px;  /* Adjust margin as needed */
     display: inline-block;; /* Enable flexbox layout */
-    justify-content: right; /* Align content to the right end */
+    float: right;
 }
     
-}
