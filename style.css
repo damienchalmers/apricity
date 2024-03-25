@@ -197,20 +197,5 @@ li {
     -webkit-backdrop-filter: blur(1px);
     padding: 10px; /* Adjust padding as needed */
     margin: 10px;  /* Adjust margin as needed */
-    display: inline-block;
     
 }
-
-.positioning {
-  justify-content: right;
-  align-items: right;
-
-}
-
-@media (max-width: 768px) {
-  .positioning {
- justify-content: center;
-  align-items: center;
-  }
-}
-
