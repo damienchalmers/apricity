@@ -198,6 +198,7 @@ li {
     padding: 10px; /* Adjust padding as needed */
     margin: 10px;  /* Adjust margin as needed */
     display: inline-block;
-    max-width: 300px; 
+    max-width: 500px; 
+    padding-left: 400px;
     
 }
