@@ -198,8 +198,7 @@ li {
     padding: 10px; /* Adjust padding as needed */
     margin: 10px;  /* Adjust margin as needed */
     display: inline-block;; /* Enable flexbox layout */
-  left: 50px;
-  right: 80px;
+padding-right: 200px;
    
 }
     
