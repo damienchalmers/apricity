@@ -198,10 +198,8 @@ li {
     padding: 10px; /* Adjust padding as needed */
     margin: 10px;  /* Adjust margin as needed */
     display: inline-block;
-  position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); /* Center the box from its top-left corner */
+  position: center;
+    
 }
 
 
