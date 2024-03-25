@@ -198,7 +198,7 @@ li {
     padding: 10px; /* Adjust padding as needed */
     margin: 10px;  /* Adjust margin as needed */
    /* display: inline-block;; /* Enable flexbox layout */
-position: fixed;
+position: relative;
   left: 100px;
   right: 300px;
    
