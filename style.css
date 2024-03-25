@@ -236,3 +236,19 @@ li {
  
   }
 }
+
+.padded-paragraph7 {
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  padding-left: 700px;
+}
+
+@media (max-width: 768px) {
+  .padded-paragraph7 {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  }
+}
