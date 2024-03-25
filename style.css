@@ -201,5 +201,16 @@ li {
     
 }
 
+.positioning {
+  justify-content: right;
+  align-items: right;
 
+}
+
+@media (max-width: 768px) {
+  .positioning {
+ justify-content: center;
+  align-items: center;
+  }
+}
 
