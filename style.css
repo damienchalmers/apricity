@@ -365,7 +365,7 @@ li {
 .svg-icon {
   width: 100px;
   height: 100px;
-  position: static;  /* Makes the element positioned relative to the viewport */
+  position: absolute;  /* Makes the element positioned relative to the viewport */
   bottom: 0;        /* Places it at the bottom edge */
   right: 0;         /* Places it at the right edge  */
   /*padding-bottom: 5px; */
