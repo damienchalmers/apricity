@@ -369,5 +369,5 @@ li {
   bottom: 0;        /* Places it at the bottom edge */
   right: 0;         /* Places it at the right edge  */
   /*padding-bottom: 5px; */
-  
+  overflow: hidden;
 }
