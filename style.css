@@ -361,13 +361,22 @@ li {
       display: none;
     }
   }
+.svg-container {
+  position: fixed;  /* Enables fixed positioning later */
+  bottom: 0;        /* Potential bottom positioning later */
+  right: 0;         /* Potential right positioning later */
+  visibility: hidden;
+}
 
-.svg-icon {
-  width: 100px;
-  height: 100px;
-  position: absolute;  /* Makes the element positioned relative to the viewport */
-  bottom: 0;        /* Places it at the bottom edge */
-  right: 0;         /* Places it at the right edge  */
-  /*padding-bottom: 5px; */
+#scroll-trigger {  /* Hidden element at bottom */
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  bottom: 0;
+  opacity: 0;  /* Makes it invisible */
+}
 
+.svg-container:target {  /* Show when scroll-trigger is in viewport */
+  visibility: visible;
 }
