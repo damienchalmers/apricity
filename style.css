@@ -368,5 +368,5 @@ li {
   position: absolute;  /* Makes the element positioned relative to the viewport */
   bottom: 0;        /* Places it at the bottom edge */
   right: 0;         /* Places it at the right edge  */
-  padding-bottom: 10px;
+  padding-bottom: 0.5px;
 }
