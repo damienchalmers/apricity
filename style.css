@@ -270,8 +270,8 @@ li {
     right: 20px;
     transform: translateY(-50%);
     cursor: pointer;
-    font-size: 2em;
-    font-weight: 100;
+    font-size: 1em;
+    font-weight: 50;
     font-style: normal;
    
 }
