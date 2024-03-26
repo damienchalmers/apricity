@@ -43,4 +43,19 @@
 </footer>
 
 </body>
+  const svgContainer = document.querySelector('.svg-container');
+const scrollTrigger = document.getElementById('scroll-trigger');
+
+window.addEventListener('scroll', function() {
+  const scrollPosition = window.scrollY;
+  const documentHeight = document.documentElement.scrollHeight;
+  const viewportHeight = window.innerHeight;
+
+  if (scrollPosition + viewportHeight >= documentHeight) {
+    svgContainer.classList.add('show-svg');
+  } else {
+    svgContainer.classList.remove('show-svg');
+  }
+});
+
 </html>
