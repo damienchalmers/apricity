@@ -309,3 +309,20 @@ li {
     75% {-webkit-transform: translate(-2px, 0px) rotate(3deg);}
     100% {-webkit-transform: translate(0px, 2px) rotate(0deg);} 
 }
+
+.container2 {
+ 
+  justify-content: right;
+  align-items: right;
+
+}
+
+/* Smaller padding for screens narrower than 768px (common breakpoint for mobile devices) */
+@media (max-width: 768px) {
+  .container2 {
+
+  justify-content: center;
+  align-items: center;
+
+  }
+}
