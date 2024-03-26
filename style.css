@@ -270,9 +270,10 @@ li {
     right: 20px;
     transform: translateY(-50%);
     cursor: pointer;
-    font-family: "Diatype Variable";
-  font-size: 2em;
-	font-weight: 100;
-	font-style: normal;
-	font-variation-settings: 'slnt' 0, 'MONO' 0;
+    font-size: 2em;
+    font-weight: 100;
+    font-style: normal;
+   
 }
+.problem {text-align:right}
+.enclose {position:-webkit-sticky;z-index:100;bottom:10px;width:100%;}
