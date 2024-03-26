@@ -363,6 +363,8 @@ li {
   }
 
 .svg-icon {
+   width: 20px;
+  height: 20px;
   position: fixed;  /* Makes the element positioned relative to the viewport */
   bottom: 0;        /* Places it at the bottom edge */
   right: 0;         /* Places it at the right edge  */
