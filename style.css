@@ -361,3 +361,12 @@ li {
       display: none;
     }
   }
+.svg-background {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 20px; /* Adjust width as needed */
+  height: 20px; /* Adjust height as needed */
+  background-image: url("helios.svg"); /* Replace with your SVG path */
+  background-size: cover; /* Scales the SVG to fit the container */
+}
