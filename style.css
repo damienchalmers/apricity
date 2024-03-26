@@ -341,3 +341,13 @@ li {
 
   }
 }
+
+.mobile-only {
+    display: none;
+  }
+
+  @media only screen and (max-width: 767px) {
+    .mobile-only {
+      display: block;
+    }
+  }
