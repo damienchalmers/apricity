@@ -31,7 +31,9 @@
   <br>
     <br>
   <br>
-  <div> <img src="helios.svg" class="svg-icon"></div>
+  <div class="svg-container">
+  <img src="helios.svg" class="svg-icon">
+</div>
      <div class="padded-paragraph2 text-element">
     <a  href="about.html">about</a>
     <a  href="contact.html">contact</a>  
@@ -43,19 +45,6 @@
 </footer>
 
 </body>
-  const svgContainer = document.querySelector('.svg-container');
-const scrollTrigger = document.getElementById('scroll-trigger');
 
-window.addEventListener('scroll', function() {
-  const scrollPosition = window.scrollY;
-  const documentHeight = document.documentElement.scrollHeight;
-  const viewportHeight = window.innerHeight;
-
-  if (scrollPosition + viewportHeight >= documentHeight) {
-    svgContainer.classList.add('show-svg');
-  } else {
-    svgContainer.classList.remove('show-svg');
-  }
-});
 
 </html>
