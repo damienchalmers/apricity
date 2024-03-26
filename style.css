@@ -252,3 +252,27 @@ li {
   padding-left: 40px;
   }
 }
+
+.banner2 {
+    background-image: linear-gradient(to right, rgba(27, 160, 255, 0.04) , rgba(0, 123, 255, 0.08));
+    color: #000000;
+    padding: 5px;
+    text-align: center;
+    position: -webkit-sticky;
+    top: 0; /* Stick to the top of the viewport */
+    z-index: 100; /* Ensure the banner is above other elements */
+
+}
+
+.close-btn {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-family: "Diatype Variable";
+  font-size: 2em;
+	font-weight: 100;
+	font-style: normal;
+	font-variation-settings: 'slnt' 0, 'MONO' 0;
+}
