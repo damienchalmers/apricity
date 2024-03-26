@@ -366,6 +366,6 @@ li {
   width: 100px;
   height: 100px;
   position: fixed;  /* Makes the element positioned relative to the viewport */
-  bottom: 0;        /* Places it at the bottom edge */
+  bottom: 10;        /* Places it at the bottom edge */
   right: 0;         /* Places it at the right edge  */
 }
