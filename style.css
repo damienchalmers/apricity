@@ -382,6 +382,8 @@ li {
 
 .svg-container {
   position: relative; /* Establish relative positioning context */
+  display: flex;
+  justify-content: flex-end;
 }
 
 .svg-icon {
