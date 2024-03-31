@@ -82,7 +82,9 @@ li {
   justify-content: flex-end;
 }
 
-
+.helios a {
+  float: left;
+}
 /* Smaller padding for screens narrower than 768px (common breakpoint for mobile devices) */
 @media (max-width: 768px) {
   .padded-paragraph {
