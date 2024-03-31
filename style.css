@@ -399,7 +399,7 @@ li {
    width: 80px;
   height: 80px;
   position: relative;  /* Allows positioning relative to container */
-  bottom: 3px;       /* Adjust as needed for desired placement */
+  bottom: 5px;       /* Adjust as needed for desired placement */
   right: 0px;        /* Adjust as needed for desired placement */
 }
 }
