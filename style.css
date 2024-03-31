@@ -85,6 +85,8 @@ li {
 .padded-paragraph2,
 .svg-container {
     flex: 1; /* Both elements share the available space equally */
+    display: flex;
+  justify-content: flex-end;
     /* Other styles for padding, etc. */
 }
 
