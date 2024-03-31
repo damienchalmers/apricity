@@ -77,6 +77,13 @@ li {
   padding-left: 45px;
 }
 
+.padded-paragraph2,
+.svg-container {
+    float: left; /* Or use display: inline-block; */
+    width: 50%; /* Adjust width as needed */
+    /* Other styles for padding, etc. */
+}
+
 .helios {
   display: flex;
   justify-content: flex-end;
