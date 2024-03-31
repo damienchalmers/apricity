@@ -77,6 +77,18 @@ li {
   padding-left: 45px;
 }
 
+.column-container {
+    display: flex;
+    /* Other styles for the container */
+}
+
+.padded-paragraph2,
+.svg-container {
+    flex: 1; /* Both elements share the available space equally */
+    /* Other styles for padding, etc. */
+}
+
+
 .helios {
   display: flex;
   justify-content: flex-end;
