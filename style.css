@@ -71,6 +71,8 @@ li {
 }
 
 .padded-paragraph2 {
+  display: flex;
+  justify-content: flex-end;
   padding-top: 10px;
   padding-right: 85px;
   padding-bottom: 20px;
@@ -89,6 +91,8 @@ li {
 
 @media (max-width: 768px) {
   .padded-paragraph2 {
+  display: flex;
+  justify-content: flex-end;
   padding-top: 10px;
   padding-right: 20px;
   padding-bottom: 20px;
