@@ -122,6 +122,12 @@ li {
 }
 
 @media (max-width: 768px) {
+  .text-element1 {
+    font-size: 3em; /* Larger font size for mobile */
+  }
+}
+
+@media (max-width: 768px) {
   .text-element3 {
     font-size: 4em; 
     text-align: center;
