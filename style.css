@@ -411,10 +411,12 @@ li {
 }
 
 hr {
-  height: 0px;
+  height: 1px;
   margin: 0;
-  background-color: black; /* Example with a black line */
+  padding: 0;
+  border: 1px solid black; /* Example with a black border */
 }
+
 
 
 
