@@ -421,6 +421,7 @@ hr {
   position: fixed; /* Establish relative positioning context */
   display: flex;
   justify-content: flex-end;
+  align-items: flex-start; /* Optional: Align to top if needed */
 }
 
 
