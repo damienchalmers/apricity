@@ -414,7 +414,7 @@ hr {
 
   margin: 0;
   padding: 0;
-  border: 1px solid black; /* Example with a black border */
+  border: 0.5px solid black; /* Example with a black border */
 }
 
 
