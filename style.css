@@ -409,3 +409,12 @@ li {
   right: 0px;        /* Adjust as needed for desired placement */
 }
 }
+
+hr {
+  /* Set the height and remove default margins */
+  height: 2px;
+  margin: 0;
+  /* Style the line */
+  border: none;
+  background-color: #ccc;
+}
