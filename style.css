@@ -297,6 +297,23 @@ li {
   }
 }
 
+.padded-paragraph8 {
+  padding-top: 10px;
+  padding-right: 350px;
+  padding-bottom: 20px;
+  padding-left: 350px;
+
+}
+
+@media (max-width: 768px) {
+  .padded-paragraph8 {
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+ 
+  }
+}
 .banner2 {
     background-image: linear-gradient(to right, rgba(27, 160, 255, 0.04) , rgba(0, 123, 255, 0.08));
     color: #000000;
