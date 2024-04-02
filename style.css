@@ -29,7 +29,7 @@ a {
   color: #111111;
   font-weight: lighter;
   font-size:  1em; /* Increase heading size */
-  line-height: 1; /* Increase line spacing */
+  line-height: 1.1; /* Increase line spacing */
 }
 
 section {
