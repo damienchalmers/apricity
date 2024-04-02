@@ -234,7 +234,7 @@ li {
 }
 
 @media (max-width: 768px) {
-#blur2 { /* Replace with your element's ID or class */
+#blur { /* Replace with your element's ID or class */
     background: rgba(255, 218, 185, 0.1);
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
