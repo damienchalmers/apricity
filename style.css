@@ -410,4 +410,14 @@ li {
 }
 }
 
+hr {
+  /* Set the height and remove default margins */
+  height: 2px;
+  margin: 0;
+  /* Style the line */
+  border: none;
+
+}
+
+
 
