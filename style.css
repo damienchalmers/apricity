@@ -418,11 +418,10 @@ hr {
 }
 
 .sun {
-  position: fixed; /* Establish relative positioning context */
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-start; /* Optional: Align to top if needed */
+  position: fixed;
+  top: 0; /* Set top to 0 for top positioning */
+  right: 0; /* Move it to the right edge */
+  display: flex; /* Flex properties are not required here */
 }
-
 
 
