@@ -127,6 +127,11 @@ li {
   }
 }
 
+ .text-element3 {
+    font-size: 2em; 
+    text-align: center;
+  }
+
 @media (max-width: 768px) {
   .text-element3 {
     font-size: 4em; 
