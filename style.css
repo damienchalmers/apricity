@@ -415,6 +415,6 @@ hr {
   height: 2px;
   margin: 0;
   /* Style the line */
-  border: none;
-  background-color: #ccc;
+ /* border: none; */
+  /* background-color: #ccc; */
 }
