@@ -418,7 +418,7 @@ hr {
 }
 
 .sun {
-  position: relative; /* Establish relative positioning context */
+  position: fixed; /* Establish relative positioning context */
   display: flex;
   justify-content: flex-end;
 }
