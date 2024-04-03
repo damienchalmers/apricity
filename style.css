@@ -22,6 +22,7 @@ p {
   font-weight: lighter;
   font-size: 0.8em; /* Increase heading size */
   line-height: 2; /* Increase line spacing */
+   z-index: 2; /* Higher value to appear on top */
 }
 
 a {
@@ -446,5 +447,7 @@ hr {
   right: 10px; /* Move it to the right edge */
   display: flex; /* Flex properties are not required here */
 }
+
+
 
 
