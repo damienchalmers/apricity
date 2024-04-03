@@ -22,7 +22,7 @@ p {
   font-weight: lighter;
   font-size: 0.8em; /* Increase heading size */
   line-height: 2; /* Increase line spacing */
-  
+  z-index: 2; /* Higher value to appear on top */
 }
 
 a {
