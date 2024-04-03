@@ -450,13 +450,6 @@ hr {
   z-index: 0; /* Higher value to appear on top */
 }
 
-@media (max-width: 768px) {
-.padded-paragraph9 {
-  padding-top: 10px;
-  padding-right: 60px;
-  padding-bottom: 20px;
-  padding-left: 40px;
-  }
-}
+
 
 
