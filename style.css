@@ -446,6 +446,7 @@ hr {
   top: 10px; /* Set top to 0 for top positioning */
   right: 10px; /* Move it to the right edge */
   display: flex; /* Flex properties are not required here */
+  z-index: 1; /* Higher value to appear on top */
 }
 
 
