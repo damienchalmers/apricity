@@ -246,6 +246,20 @@ li {
    /* display: inline-block;; /* Enable flexbox layout */
 }
 }
+
+@media (max-width: 768px) {
+#blur2 { /* Replace with your element's ID or class */
+    background: rgba(255, 218, 185, 0.1);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    padding: 10px; /* Adjust padding as needed */
+    margin: 10px;  /* Adjust margin as needed */
+   /* display: inline-block;; /* Enable flexbox layout */
+  min-width: 200px; /* Adjust as needed */
+}
+}
 .padded-paragraph5 {
   padding-top: 10px;
   padding-right: 250px;
@@ -448,8 +462,5 @@ hr {
   z-index: 0; /* Higher value to appear on top */
 }
 
-.top {
-  z-index: 2; /* Higher value to appear on top */
-}
 
 
