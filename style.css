@@ -250,8 +250,8 @@ li {
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(2px);
-    padding: 3px; /* Adjust padding as needed */
-    margin: 3px;  /* Adjust margin as needed */
+    padding: 5px; /* Adjust padding as needed */
+    margin: 5px;  /* Adjust margin as needed */
    /* display: inline-block;; /* Enable flexbox layout */
 }
 }
