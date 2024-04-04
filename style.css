@@ -226,7 +226,7 @@ li {
 .banner {
   background-image: url("noise.png");  
   background-repeat: no-repeat;  
-  background-position: left;  
+  background-position: center;  
   background-size: cover;  
 
 }
