@@ -431,7 +431,7 @@ li {
   height: 50px;
   position: relative;  /* Allows positioning relative to container */
   bottom: 10px;       /* Adjust as needed for desired placement */
-  right: 10px;        /* Adjust as needed for desired placement */
+  right: 20px;        /* Adjust as needed for desired placement */
 }
 
 @media only screen and (max-width: 767px) {
@@ -440,7 +440,7 @@ li {
   height: 80px;
   position: relative;  /* Allows positioning relative to container */
   bottom: 10px;       /* Adjust as needed for desired placement */
-  right: 10px;        /* Adjust as needed for desired placement */
+  right: 20px;        /* Adjust as needed for desired placement */
 }
 }
 
