@@ -439,8 +439,8 @@ li {
    width: 80px;
   height: 80px;
   position: relative;  /* Allows positioning relative to container */
-  bottom: 20px;       /* Adjust as needed for desired placement */
-  right: 20px;        /* Adjust as needed for desired placement */
+  bottom: 10px;       /* Adjust as needed for desired placement */
+  right: 10px;        /* Adjust as needed for desired placement */
 }
 }
 
