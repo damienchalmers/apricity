@@ -251,7 +251,7 @@ li {
     backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(2px);
     padding: 10px; /* Adjust padding as needed */
-    margin: 5px;  /* Adjust margin as needed */
+    margin: 10px;  /* Adjust margin as needed */
    /* display: inline-block;; /* Enable flexbox layout */
 }
 }
