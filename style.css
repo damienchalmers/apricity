@@ -499,4 +499,12 @@ hr {
   }
 }
 
+.padded-paragraph2,
+.contact-container {
+    flex: 1; /* Both elements share the available space equally */
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+    /* Other styles for padding, etc. */
+}
 
