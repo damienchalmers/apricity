@@ -500,14 +500,14 @@ hr {
 }
   .bottom-left {
         position: fixed;
-        bottom: 1;
+        bottom: 0;
         left: 0;
         padding: 20px;
 
     }
   .bottom-right {
-        position: fixed;
-        bottom: 1;
+        position: absolute;
+        bottom: 0;
         right: 0;
         padding: 20px;
 
