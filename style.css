@@ -506,7 +506,7 @@ hr {
 
     }
   .bottom-right {
-        position: absolute;
+        position: fixed;
         bottom: 0;
         right: 0;
         padding: 20px;
