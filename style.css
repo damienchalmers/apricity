@@ -514,7 +514,7 @@ hr {
     }
 @media (max-width: 768px) {
    .bottom-left {
-        position: absolute;
+        position: static;
         bottom: 0;
         left: 0;
         padding: 10px;
@@ -523,7 +523,7 @@ hr {
 }
 @media (max-width: 768px) {
      .bottom-right {
-        position: absolute;
+        position: static;
         bottom: 0;
         right: 0;
         padding: 10px;
