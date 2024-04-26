@@ -498,13 +498,10 @@ hr {
  
   }
 }
+  .bottom-left {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        padding: 20px;
 
-.padded-paragraph2,
-.contact-container {
-    flex: 1; /* Both elements share the available space equally */
-    padding-left: 20px;
-    padding-bottom: 20px;
-
-    /* Other styles for padding, etc. */
-}
-
+    }
