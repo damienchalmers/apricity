@@ -500,15 +500,15 @@ hr {
 }
   .bottom-left {
         position: fixed;
-        bottom: 10;
-        left: 10;
+        bottom: 1;
+        left: 0;
         padding: 20px;
 
     }
   .bottom-right {
         position: fixed;
-        bottom: 10;
-        right: 10;
+        bottom: 1;
+        right: 0;
         padding: 20px;
 
     }
