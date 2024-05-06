@@ -159,14 +159,14 @@ li {
 
 .text-element4 {
     color: peachpuff;
-    font-size: 4em; 
+    font-size: 6em; 
     text-align: center;
   }
 
 @media (max-width: 768px) {
   .text-element4 {
     color: peachpuff;
-    font-size: 2em; 
+    font-size: 3em; 
     text-align: center;
   }
 }
