@@ -157,6 +157,19 @@ li {
   }
 }
 
+.text-element4 {
+    color: peachpuff;
+    font-size: 4em; 
+    text-align: center;
+  }
+
+@media (max-width: 768px) {
+  .text-element4 {
+    color: peachpuff;
+    font-size: 2em; 
+    text-align: center;
+  }
+}
 .text-border {
   display: inline-block;
   border: 1px solid black; /* Thin black border with 1px thickness */
