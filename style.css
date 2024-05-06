@@ -238,7 +238,7 @@ li {
 .ubi {
   background-image: url("IMG_1819.jpeg");  
   background-position: center;  
-  background-size: 20%;  
+  background-size: cover;  
 
 }
 
