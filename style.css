@@ -235,6 +235,14 @@ li {
 
 }
 
+.ubi {
+  background-image: url("IMG_1819.jpeg");  
+  background-repeat: no-repeat;  
+  background-position: center;  
+  background-size: cover;  
+
+}
+
 #blur { /* Replace with your element's ID or class */
     background: rgba(255, 218, 185, 0.1);
     border-radius: 16px;
