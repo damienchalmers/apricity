@@ -239,7 +239,7 @@ li {
   background-image: url("IMG_1819.jpeg");  
   background-repeat: no-repeat;  
   background-position: center;  
-  background-size: cover;  
+  background-size: fit;  
 
 }
 
