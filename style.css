@@ -255,14 +255,6 @@ li {
 
 }
 
-@media (max-width: 768px) {
- .ubi {
-  background-image: url("Frame 38.png");  
-  background-position: center;  
-  background-size: 80%;  
-  }
-}
-
 #blur { /* Replace with your element's ID or class */
     background: rgba(255, 218, 185, 0.1);
     border-radius: 16px;
