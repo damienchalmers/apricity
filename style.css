@@ -577,7 +577,7 @@ hr {
 .bottom-centre {
         position: fixed;
         bottom: 10px;
-        left: 150px;
+        left: 200px;
         padding: 20px;
 
     }
@@ -585,7 +585,7 @@ hr {
    .bottom-centre {
         position: static;
         bottom: 0;
-        left: 30px;
+        left: 0px;
         padding: 10px;
 
     }
