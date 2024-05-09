@@ -554,3 +554,17 @@ hr {
 .textcol {
   color: peachpuff;
 }
+
+.text-element10 {
+    color: black;
+    font-size: 6em; 
+    text-align: center;
+  }
+
+@media (max-width: 768px) {
+  .text-element10 {
+    color: black;
+    font-size: 3em; 
+    text-align: center;
+  }
+}
