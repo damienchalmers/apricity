@@ -574,23 +574,7 @@ hr {
     }
 }
 
-.bottom-centre {
-        position: fixed;
-        bottom: 10px;
-        left: 300px;
-        padding: 20px;
-        text-align: center;
 
-    }
-@media (max-width: 768px) {
-   .bottom-centre {
-        position: static;
-        bottom: 0;
-        left: 0px;
-        padding: 10px;
-
-    }
-}
 .textcol {
   color: peachpuff;
 }
