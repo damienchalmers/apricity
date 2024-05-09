@@ -574,18 +574,18 @@ hr {
     }
 }
 
-.top-left {
+.bottom-centre {
         position: fixed;
-        bottom: 10;
-        right: 0;
+        bottom: 10px;
+        left: 50px;
         padding: 20px;
 
     }
 @media (max-width: 768px) {
-   .top-left {
+   .bottom-centre {
         position: static;
         bottom: 0;
-        left: 0;
+        left: 30px;
         padding: 10px;
 
     }
