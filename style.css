@@ -592,3 +592,9 @@ hr {
     text-align: center;
   }
 }
+
+.bottom-centre {
+   position: sticky; 
+     bottom: 0;
+  text-align: center;
+}
