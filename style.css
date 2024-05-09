@@ -557,14 +557,14 @@ hr {
 
 .text-element10 {
     color: black;
-    font-size: 6em; 
+    font-size: 60em; 
     text-align: center;
   }
 
 @media (max-width: 768px) {
   .text-element10 {
     color: black;
-    font-size: 3em; 
+    font-size: 30em; 
     text-align: center;
   }
 }
