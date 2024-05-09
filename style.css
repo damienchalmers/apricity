@@ -84,7 +84,7 @@ li {
 
 .svg-container {
     flex: 1; /* Both elements share the available space equally */
-    padding-right: 50px;
+    padding-right: 70px;
     padding-bottom: 20px;
     padding-left: 0px;
   
