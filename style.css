@@ -579,6 +579,7 @@ hr {
         bottom: 10px;
         left: 300px;
         padding: 20px;
+        text-align: center;
 
     }
 @media (max-width: 768px) {
