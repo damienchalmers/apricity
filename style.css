@@ -606,7 +606,7 @@ hr {
     display: block;
   }
 
-  @media only screen and (max-width: 867px) {
+  @media only screen and (max-width: 1000px) {
     .desktop-only2 {
       display: none;
     }
