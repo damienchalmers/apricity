@@ -603,7 +603,7 @@ hr {
 }
 
 .desktop-only2 {
-  
+  padding: 20px; 
   display: inline-block;
   width: 45%; /* Adjust width as needed */
   vertical-align: top; /* Align elements to the top */
