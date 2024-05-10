@@ -601,3 +601,13 @@ hr {
 .justify {
   text-align: justify;
 }
+
+.desktop-only2 {
+    display: block;
+  }
+
+  @media only screen and (max-width: 867px) {
+    .desktop-only2 {
+      display: none;
+    }
+  }
